@@ -25,3 +25,12 @@ C:\Users\wiche\Desktop\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\Win
 C:\Users\wiche\Desktop\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\wiche\Desktop\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\wiche\Desktop\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Politechnika\rok II\Sem3\Programowanie\Przegladarka_zdjec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
